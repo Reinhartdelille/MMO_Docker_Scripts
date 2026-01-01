@@ -1,0 +1,14 @@
+{
+  "name": "Nightblade Docker Tools",
+  "guid": "946a34c3-bc3a-4ff5-8f40-054f7cf63b0b",
+  "packageUrl": "https://github.com/Reinhartdelille/MMO_Docker_Scripts/MMO_Docker_Scripts.unitypackage",
+  "version": "1.0.0",
+  "updateDate": "2026-01-01",
+  "author": {
+    "name": "Strike Force Alpha",
+	  "url": "https://strikeforcealpha.io"
+  },
+  "category": "Tools",
+  "description": "MMO Docker tools give you an out of the box possibility to setup and run your projecting in MMO Mode. \n\n Install docker, follow the readme and you should have a local multiplayer instance running in no time. Stay tuned as we will add automated pipeline and cloud deploy scripts in the future.
+  "screenshot": "screenshot.png"
+}
