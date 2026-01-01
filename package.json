@@ -1,7 +1,7 @@
 {
   "name": "Nightblade Docker Tools",
   "guid": "946a34c3-bc3a-4ff5-8f40-054f7cf63b0b",
-  "packageUrl": "https://github.com/Reinhartdelille/MMO_Docker_Scripts/MMO_Docker_Scripts.unitypackage",
+  "packageUrl": "https://github.com/Reinhartdelille/MMO_Docker_Scripts/raw/refs/heads/main/MMO_Docker_Scripts.unitypackage",
   "version": "1.0.0",
   "updateDate": "2026-01-01",
   "author": {
