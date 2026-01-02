@@ -9,6 +9,6 @@
 	  "url": "https://strikeforcealpha.io"
   },
   "category": "Tools",
-  "description": "MMO Docker tools give you an out of the box possibility to setup and run your projecting in MMO Mode. \n\n Install docker, follow the readme and you should have a local multiplayer instance running in no time. Stay tuned as we will add automated pipeline and cloud deploy scripts in the future."
+  "description": "MMO Docker tools give you an out of the box possibility to setup and run your projecting in MMO Mode. \n\n Install docker, follow the readme and you should have a local multiplayer instance running in no time. Stay tuned as we will add automated pipeline and cloud deploy scripts in the future.",
   "screenshot": "screenshot.png"
 }
